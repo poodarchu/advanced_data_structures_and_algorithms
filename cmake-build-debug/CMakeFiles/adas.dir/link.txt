@@ -1,0 +1,1 @@
+/opt/openmpi/bin/mpic++   -std=c++11 -fopenmp -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/adas.dir/main.cpp.o CMakeFiles/adas.dir/greedy.cpp.o CMakeFiles/adas.dir/divide_conquer.cpp.o CMakeFiles/adas.dir/dynamic_programming.cpp.o  -o adas 
