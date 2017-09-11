@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/poodar/Developments/GitHub/advanced_data_structures_and_algorithms/divide_conquer.cpp
+
+/Users/poodar/Developments/GitHub/advanced_data_structures_and_algorithms/dynamic_programming.cpp
+
+/Users/poodar/Developments/GitHub/advanced_data_structures_and_algorithms/greedy.cpp
+
+/Users/poodar/Developments/GitHub/advanced_data_structures_and_algorithms/main.cpp
+iostream
+-
+cstring
+-
+
